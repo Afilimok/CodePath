@@ -28,6 +28,22 @@ The following **required** functionality is completed:
 
 Describe any challenges encountered while building the app.
 
+App - Google Calendar.
+- Push notification is a great way to remember about tasks.
+- Editing events 
+   
+Apple Wallet 
+ - Option to choose payment method
+- Storage debit card 
+
+Whoop App  
+- Check level of stress 
+- Statistic of sleeping tracking.
+
+____
+I’d like to improve the phone call experience. When calling an insurance company or similar service, we often have to endure long periods of hold music, with no option to mute it. It would be incredibly helpful to have an AI assistant that could monitor the call, recognize when actual speech begins, and alert you to return only when it's time to engage—skipping the music entirely.
+ 
+
 ## License
 
     Copyright 2025 [name of copyright owner]
