@@ -4,9 +4,9 @@
 
 Submitted by: **Alina Filimokhina**
 
-**Name of your app** is an app that... [TODO] 
 
-Time spent: **3** hours spent in total
+
+Time spent: **4** hours spent in total
 
 ## Required Features
 
